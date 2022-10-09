@@ -43,6 +43,7 @@ nav{
 
 nav li{
 	display: inline;
+	color: black
 	
 	
 }
@@ -56,14 +57,15 @@ footer{
 
 nav a:link {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	color: dodgerblue;
+	font-size: 50px;
+	color: red;
 	text-decoration: none;
 	margin-right: 20px;
 	
 }
 
 nav a:visited {
-	color: darkgray
+	color: black
 }
 
 nav a:hover {
