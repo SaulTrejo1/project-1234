@@ -63,11 +63,6 @@ nav a:link {
 	margin-right: 20px;
 	
 }
-
-nav a:visited {
-	color: grey
-}
-
 nav a:hover {
 	color: azure
 }
